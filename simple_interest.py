@@ -10,3 +10,4 @@ if __name__ == "__main__":
     
     simple_interest = simInt(p, i, t)
     print(f"The simple interest is: {simple_interest}")
+    print(sys.argv[0])
